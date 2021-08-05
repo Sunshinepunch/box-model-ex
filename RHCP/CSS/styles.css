@@ -1,8 +1,15 @@
 .sidebar{
   float:right;
+  border: 10px solid black;
+  padding: 20px;
 }
 
 .column {
   width: 300px;
   float:left;
+  
+}
+.ridebar{
+  float:left;
+  font-size: 20px;
 }
