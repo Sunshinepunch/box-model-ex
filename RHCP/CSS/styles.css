@@ -2,14 +2,21 @@
   float:right;
   border: 10px solid black;
   padding: 20px;
+  background-color: cornsilk;
 }
 
 .column {
   width: 300px;
   float:left;
-  
+  border:10px solid black;
+  background-color: blanchedalmond;
 }
 .ridebar{
   float:left;
   font-size: 20px;
+  background-color: crimson;
+}
+.background{
+  background-color: orangered;
+  box-sizing: border-box
 }
